@@ -1,4 +1,4 @@
-# Location Lifestyle AI v1.2 – Multi-Source Edition
-Upload all files and folders to the repository root and deploy `app.py`.
+# Location Lifestyle AI v2.1
+Complete downloadable repository with a prebuilt SQLite catalogue of more than 100 UK locations.
 
-V1.2 splits OpenStreetMap queries by category and adds independent Wikipedia Geosearch, Historic England NHLE, OpenBenches, Open-Meteo elevation, Food Standards Agency, Police.uk, Google News RSS and OSRM connectors. Missing categories remain unavailable rather than zero.
+Upload every file and folder. The GitHub Action triggers automatically on the first push, geocodes the catalogue, retrieves evidence and commits the populated `data/lifestyle.db`. Deploy `app.py`. No file creation or editing is required.

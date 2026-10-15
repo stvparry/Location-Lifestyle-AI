@@ -1,0 +1,139 @@
+name,query,region
+Marlow,"Marlow, Buckinghamshire, UK",South East
+Henley-on-Thames,"Henley-on-Thames, Oxfordshire, UK",South East
+Amersham,"Amersham, Buckinghamshire, UK",South East
+Beaconsfield,"Beaconsfield, Buckinghamshire, UK",South East
+Gerrards Cross,"Gerrards Cross, Buckinghamshire, UK",South East
+Chesham,"Chesham, Buckinghamshire, UK",South East
+High Wycombe,"High Wycombe, Buckinghamshire, UK",South East
+Aylesbury,"Aylesbury, Buckinghamshire, UK",South East
+Thame,"Thame, Oxfordshire, UK",South East
+Wallingford,"Wallingford, Oxfordshire, UK",South East
+Abingdon,"Abingdon, Oxfordshire, UK",South East
+Witney,"Witney, Oxfordshire, UK",South East
+Woodstock,"Woodstock, Oxfordshire, UK",South East
+Oxford,"Oxford, Oxfordshire, UK",South East
+Wantage,"Wantage, Oxfordshire, UK",South East
+Didcot,"Didcot, Oxfordshire, UK",South East
+Reading,"Reading, Berkshire, UK",South East
+Wokingham,"Wokingham, Berkshire, UK",South East
+Newbury,"Newbury, Berkshire, UK",South East
+Windsor,"Windsor, Berkshire, UK",South East
+Maidenhead,"Maidenhead, Berkshire, UK",South East
+Cookham,"Cookham, Berkshire, UK",South East
+Ascot,"Ascot, Berkshire, UK",South East
+Guildford,"Guildford, Surrey, UK",South East
+Farnham,"Farnham, Surrey, UK",South East
+Godalming,"Godalming, Surrey, UK",South East
+Dorking,"Dorking, Surrey, UK",South East
+Reigate,"Reigate, Surrey, UK",South East
+Esher,"Esher, Surrey, UK",South East
+Weybridge,"Weybridge, Surrey, UK",South East
+Haslemere,"Haslemere, Surrey, UK",South East
+Sevenoaks,"Sevenoaks, Kent, UK",South East
+Tunbridge Wells,"Royal Tunbridge Wells, Kent, UK",South East
+Canterbury,"Canterbury, Kent, UK",South East
+Deal,"Deal, Kent, UK",South East
+Whitstable,"Whitstable, Kent, UK",South East
+Tenterden,"Tenterden, Kent, UK",South East
+Rye,"Rye, East Sussex, UK",South East
+Lewes,"Lewes, East Sussex, UK",South East
+Brighton,"Brighton, East Sussex, UK",South East
+Hove,"Hove, East Sussex, UK",South East
+Arundel,"Arundel, West Sussex, UK",South East
+Chichester,"Chichester, West Sussex, UK",South East
+Petworth,"Petworth, West Sussex, UK",South East
+Winchester,"Winchester, Hampshire, UK",South East
+Lymington,"Lymington, Hampshire, UK",South East
+Romsey,"Romsey, Hampshire, UK",South East
+Alresford,"New Alresford, Hampshire, UK",South East
+Petersfield,"Petersfield, Hampshire, UK",South East
+Berkhamsted,"Berkhamsted, Hertfordshire, UK",East of England
+St Albans,"St Albans, Hertfordshire, UK",East of England
+Hitchin,"Hitchin, Hertfordshire, UK",East of England
+Harpenden,"Harpenden, Hertfordshire, UK",East of England
+Bishop's Stortford,"Bishop's Stortford, Hertfordshire, UK",East of England
+Saffron Walden,"Saffron Walden, Essex, UK",East of England
+Maldon,"Maldon, Essex, UK",East of England
+Burnham-on-Crouch,"Burnham-on-Crouch, Essex, UK",East of England
+Cambridge,"Cambridge, Cambridgeshire, UK",East of England
+Ely,"Ely, Cambridgeshire, UK",East of England
+Bury St Edmunds,"Bury St Edmunds, Suffolk, UK",East of England
+Woodbridge,"Woodbridge, Suffolk, UK",East of England
+Aldeburgh,"Aldeburgh, Suffolk, UK",East of England
+Southwold,"Southwold, Suffolk, UK",East of England
+Norwich,"Norwich, Norfolk, UK",East of England
+Holt,"Holt, Norfolk, UK",East of England
+Wells-next-the-Sea,"Wells-next-the-Sea, Norfolk, UK",East of England
+Stamford,"Stamford, Lincolnshire, UK",East Midlands
+Lincoln,"Lincoln, Lincolnshire, UK",East Midlands
+Louth,"Louth, Lincolnshire, UK",East Midlands
+Oakham,"Oakham, Rutland, UK",East Midlands
+Market Harborough,"Market Harborough, Leicestershire, UK",East Midlands
+Ashbourne,"Ashbourne, Derbyshire, UK",East Midlands
+Bakewell,"Bakewell, Derbyshire, UK",East Midlands
+Buxton,"Buxton, Derbyshire, UK",East Midlands
+Nottingham,"Nottingham, UK",East Midlands
+Shrewsbury,"Shrewsbury, Shropshire, UK",West Midlands
+Ludlow,"Ludlow, Shropshire, UK",West Midlands
+Bridgnorth,"Bridgnorth, Shropshire, UK",West Midlands
+Much Wenlock,"Much Wenlock, Shropshire, UK",West Midlands
+Ironbridge,"Ironbridge, Shropshire, UK",West Midlands
+Stratford-upon-Avon,"Stratford-upon-Avon, Warwickshire, UK",West Midlands
+Warwick,"Warwick, Warwickshire, UK",West Midlands
+Leamington Spa,"Royal Leamington Spa, Warwickshire, UK",West Midlands
+Worcester,"Worcester, Worcestershire, UK",West Midlands
+Malvern,"Great Malvern, Worcestershire, UK",West Midlands
+York,"York, North Yorkshire, UK",Yorkshire
+Harrogate,"Harrogate, North Yorkshire, UK",Yorkshire
+Ilkley,"Ilkley, West Yorkshire, UK",Yorkshire
+Skipton,"Skipton, North Yorkshire, UK",Yorkshire
+Ripon,"Ripon, North Yorkshire, UK",Yorkshire
+Helmsley,"Helmsley, North Yorkshire, UK",Yorkshire
+Richmond,"Richmond, North Yorkshire, UK",Yorkshire
+Beverley,"Beverley, East Riding of Yorkshire, UK",Yorkshire
+Whitby,"Whitby, North Yorkshire, UK",Yorkshire
+Hebden Bridge,"Hebden Bridge, West Yorkshire, UK",Yorkshire
+Chester,"Chester, Cheshire, UK",North West
+Knutsford,"Knutsford, Cheshire, UK",North West
+Nantwich,"Nantwich, Cheshire, UK",North West
+Alderley Edge,"Alderley Edge, Cheshire, UK",North West
+Kendal,"Kendal, Cumbria, UK",North West
+Keswick,"Keswick, Cumbria, UK",North West
+Ambleside,"Ambleside, Cumbria, UK",North West
+Windermere,"Windermere, Cumbria, UK",North West
+Cartmel,"Cartmel, Cumbria, UK",North West
+Alnwick,"Alnwick, Northumberland, UK",North East
+Hexham,"Hexham, Northumberland, UK",North East
+Corbridge,"Corbridge, Northumberland, UK",North East
+Durham,"Durham, County Durham, UK",North East
+Bath,"Bath, Somerset, UK",South West
+Frome,"Frome, Somerset, UK",South West
+Wells,"Wells, Somerset, UK",South West
+Sherborne,"Sherborne, Dorset, UK",South West
+Lyme Regis,"Lyme Regis, Dorset, UK",South West
+Bridport,"Bridport, Dorset, UK",South West
+Salisbury,"Salisbury, Wiltshire, UK",South West
+Marlborough,"Marlborough, Wiltshire, UK",South West
+Tetbury,"Tetbury, Gloucestershire, UK",South West
+Cirencester,"Cirencester, Gloucestershire, UK",South West
+Cheltenham,"Cheltenham, Gloucestershire, UK",South West
+Stroud,"Stroud, Gloucestershire, UK",South West
+Totnes,"Totnes, Devon, UK",South West
+Dartmouth,"Dartmouth, Devon, UK",South West
+Salcombe,"Salcombe, Devon, UK",South West
+Falmouth,"Falmouth, Cornwall, UK",South West
+Fowey,"Fowey, Cornwall, UK",South West
+St Ives,"St Ives, Cornwall, UK",South West
+Cardiff,"Cardiff, Wales, UK",Wales
+Abergavenny,"Abergavenny, Monmouthshire, Wales, UK",Wales
+Monmouth,"Monmouth, Wales, UK",Wales
+Cowbridge,"Cowbridge, Vale of Glamorgan, Wales, UK",Wales
+Tenby,"Tenby, Pembrokeshire, Wales, UK",Wales
+Conwy,"Conwy, Wales, UK",Wales
+Llandudno,"Llandudno, Wales, UK",Wales
+Edinburgh,"Edinburgh, Scotland, UK",Scotland
+St Andrews,"St Andrews, Fife, Scotland, UK",Scotland
+Pitlochry,"Pitlochry, Scotland, UK",Scotland
+Perth,"Perth, Scotland, UK",Scotland
+North Berwick,"North Berwick, Scotland, UK",Scotland

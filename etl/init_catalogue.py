@@ -1,0 +1,5 @@
+import csv,sqlite3,os
+ROOT=os.path.dirname(os.path.dirname(__file__));DB=os.path.join(ROOT,'data','lifestyle.db');CSV=os.path.join(ROOT,'data','locations.csv')
+con=sqlite3.connect(DB);con.executescript('''DROP TABLE IF EXISTS locations;DROP TABLE IF EXISTS evidence;DROP TABLE IF EXISTS metrics;DROP TABLE IF EXISTS sources;CREATE TABLE locations(id INTEGER PRIMARY KEY,name TEXT UNIQUE,query TEXT,region TEXT,label TEXT,lat REAL,lon REAL,status TEXT DEFAULT 'pending');CREATE TABLE evidence(id INTEGER PRIMARY KEY,location_id INTEGER,category TEXT,name TEXT,distance_km REAL,detail TEXT,source TEXT);CREATE TABLE metrics(id INTEGER PRIMARY KEY,location_id INTEGER,key TEXT,value REAL,unit TEXT,source TEXT);CREATE TABLE sources(id INTEGER PRIMARY KEY,location_id INTEGER,source TEXT,status TEXT,detail TEXT,refreshed_at TEXT);''')
+for r in csv.DictReader(open(CSV,encoding='utf-8')):con.execute('INSERT INTO locations(name,query,region,label,status) VALUES(?,?,?,?,?)',(r['name'],r['query'],r['region'],r['query'],'pending_refresh'))
+con.commit();print(con.execute('select count(*) from locations').fetchone()[0]);con.close()
