@@ -1,5 +1,3 @@
-area,price,property_type,bedrooms,url
-Marlow,1250000,Detached,4,
-Marlow,995000,Semi-detached,4,
-Henley-on-Thames,1350000,Detached,4,
-Henley-on-Thames,875000,Semi-detached,3,
+area,price
+Marlow,1250000
+Henley-on-Thames,1350000
